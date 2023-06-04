@@ -2,3 +2,8 @@
   color: white;
   background-color: black;
 }
+
+.no-click {
+  color: black;
+  background-color: yellow;
+}
